@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/duiying/img/master/yii2.png" height="100px">
+    <img src="https://raw.githubusercontent.com/backend-repo/awesome/master/images/avatar.png" height="100px">
     <h1 align="center">awesome</h1>
     <br>
 </p>
