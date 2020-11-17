@@ -45,6 +45,7 @@
 | [growing-up](https://github.com/mylxsw/growing-up) | 程序猿成长计划 | 
 | [php7-internal](https://github.com/pangudashu/php7-internal) | PHP7 内核剖析 | 
 | [PCP](https://github.com/farwish/PCP) | PHP Concurrent Programming / PHP 并发编程 | 
+| [lua-nginx-redis](https://github.com/Tinywan/lua-nginx-redis) | Redis、Lua、Nginx、OpenResty 笔记和资料 | 
 
 ### 优秀项目
 
