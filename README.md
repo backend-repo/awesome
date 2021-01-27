@@ -46,6 +46,7 @@
 | [php7-internal](https://github.com/pangudashu/php7-internal) | PHP7 内核剖析 | 
 | [PCP](https://github.com/farwish/PCP) | PHP Concurrent Programming / PHP 并发编程 | 
 | [lua-nginx-redis](https://github.com/Tinywan/lua-nginx-redis) | Redis、Lua、Nginx、OpenResty 笔记和资料 | 
+| [laravel-core-learn](https://github.com/cxp1539/laravel-core-learn) | Laravel 源码设计分析 | 
 
 ### 优秀项目
 
